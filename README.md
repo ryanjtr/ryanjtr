@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Embedded Software Engineer
 
-* 🌍  I'm based in I\`m based in Viet Nam
+* 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [quocdangkien@gmail.com](mailto:quocdangkien@gmail.com)
 
 <a href="https://www.github.com/ryanjtr" target="_blank" rel="noreferrer"><img
