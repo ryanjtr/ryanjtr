@@ -42,10 +42,34 @@ src="https://img.shields.io/github/followers/ryanjtr?logo=github&style=for-the-b
 
 <a href="https://github.com/ryanjtr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjtr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+## Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/ryanjtr/STMF405_CAN_LL_LIB" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanjtr&repo=STMF405_CAN_LL_LIB&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ryanjtr/CMSIS_I2C_STM32F1" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanjtr&repo=CMSIS_I2C_STM32F1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<!-- First Row: Three Repositories -->
+<div align="center" style="display: flex; flex-wrap: nowrap; gap: 20px; justify-content: center;">
+  <a href="https://github.com/ryanjtr/Custom_bootloader_external">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanjtr&repo=Custom_bootloader_external&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Custom_bootloader_external" />
+  </a>
 
-<br /><br /><br /><br /><br />
+  <a href="https://github.com/ryanjtr/CMSIS_I2C_STM32F1">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanjtr&repo=CMSIS_I2C_STM32F1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="CMSIS_I2C_STM32F1" />
+  </a>
+  <a href="https://github.com/ryanjtr/CMSIS_SPI_STM32F1">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanjtr&repo=CMSIS_SPI_STM32F1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="CMSIS_SPI_STM32F1" />
+  </a>
+</div>
 
-<div width="100%" align="center"><a href="https://github.com/ryanjtr/CMSIS_SPI_STM32F1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanjtr&repo=CMSIS_SPI_STM32F1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<!-- Second Row: One Repository -->
+<div align="center" style="display: flex; flex-wrap: nowrap; gap: 20px; justify-content: center; margin-top: 20px;">
+
+  <a href="https://github.com/ryanjtr/STMF405_CAN_LL_LIB">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanjtr&repo=STMF405_CAN_LL_LIB&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="STMF405_CAN_LL_LIB" />
+  </a>
+
+  <a href="https://github.com/ryanjtr/I2C_Bitbang_STM32F407VET6">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanjtr&repo=I2C_Bitbang_STM32F407VET6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="I2C_Bitbang_STM32F407VET6" />
+  </a>
+
+  <a href="https://github.com/ryanjtr/MCP2515_MY_LIB">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanjtr&repo=MCP2515_MY_LIB&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="MCP2515_MY_LIB" />
+  </a>
+</div>
